@@ -1,6 +1,6 @@
 def check_vowels():
     name = input()
-    name=name.lower()
+    name=name.lower() 
     if "a" in name:
         print("Contiene a: True")
     else:
