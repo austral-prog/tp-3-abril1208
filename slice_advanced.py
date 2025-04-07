@@ -1,7 +1,6 @@
 def slice_advanced():
     name =input()
     print(name[4::2])
-slice_advanced()
     # Código a implementar utilizando input.
 
 # Para verificar este ejercicio ejecutar el comando
